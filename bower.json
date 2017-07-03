@@ -1,0 +1,22 @@
+{
+  "name": "Music player",
+  "homepage": "https://github.com/XuanPH/angularjs_music_play",
+  "authors": [
+    "Pham Hoang Xuan <phxuan.sy@gmail.com>"
+  ],
+  "description": "template chay nhac",
+  "main": "index.html",
+  "keywords": [
+    "music",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
